@@ -1,6 +1,6 @@
 # ProductivityDiscordBot
 
-The **Productivity Discord Bot** is a versatile and collaborative tool designed to enhance task management, organization, and collaboration within Discord communities. This bot empowers users to efficiently manage tasks, track progress, and work collaboratively on shared projects through a series of intuitive commands.
+The **Productivity Discord Bot** is a versatile and collaborative tool designed to enhance task management, organization, and collaboration within Discord communities. This bot empowers users to efficiently manage tasks, track progress, and work collaboratively on shared projects through a series of intuitive commands. Enter the following commands below in the channel. 
 
 ## Features
 
