@@ -64,5 +64,5 @@ The **Productivity Discord Bot** is a versatile and collaborative tool designed 
 
 ## Credits
 
-This bot was developed by Anirav Kareddy for the purpose of enhancing productivity and task management in Discord communities.
+This bot was developed by Anirav Kareddy for the purpose of enhancing productivity, task management, and collarborative work
 
