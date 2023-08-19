@@ -5,7 +5,7 @@ import net.dv8tion.jda.api.requests.GatewayIntent;
 public class Main {
     protected static JDA jda;
     public static void main(String[] args) {
-        final String TOKEN="MTEyODA4MjI2ODUyNzgwODYwNA.GXKvht.242cBMSJjSxMl9iyzpvK068u8lz9Gvp5e0cE3E";
+        final String TOKEN="ENTER YOUR TOKEN";
         JDABuilder jdaBuilder= JDABuilder.createDefault(TOKEN);
         jda=jdaBuilder.enableIntents(GatewayIntent.MESSAGE_CONTENT, GatewayIntent.GUILD_MESSAGES).addEventListeners(new ReadyListener(),
                 new ProductivityDiscordBot()).build();
