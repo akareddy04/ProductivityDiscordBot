@@ -66,10 +66,3 @@ The **Productivity Discord Bot** is a versatile and collaborative tool designed 
 
 This bot was developed by Anirav Kareddy for the purpose of enhancing productivity and task management in Discord communities.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute and improve the bot's functionality as needed. For more information, refer to the project's repository and documentation.
-
----
